@@ -1,0 +1,2 @@
+# WebSocketsKafkaScala
+WebSockets Kafka Scala
